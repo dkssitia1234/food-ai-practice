@@ -1,6 +1,7 @@
-# food-ai-practice
-인공지능 데이터 실습
-과목명: 식품데이터인공지능실습
-과제명: GitHub/Colab 실습 준비
-목적: Colab 노트북과 실습 파일을 정리하기 위한 repository
-업로드 파일 설명: 26_05_15_실습13.ipynb
+# 식품데이터인공지능실습 GitHub 과제
+이 repository는 식품데이터인공지능실습 수업의 GitHub/Colab 실습 준비 과제를 위해 만들었습니다.
+포함 파일: week8_practice.ipynb
+작성내용:
+- GitHub 사용 연습
+- Colab notebook 업로드 연습
+- 데이터셋 설명준비
